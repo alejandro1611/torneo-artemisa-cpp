@@ -1,0 +1,6 @@
+output/
+*.dSYM/
+*.exe
+*.out
+*.o
+.DS_Store
